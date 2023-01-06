@@ -30,164 +30,120 @@
 	{
 		"id" : 3,
 		"category_type" : "electronics",
-		"product_price" : "",
+		"product_price" : "3900",
 		"currency_symbol" : "TL",
-		"product_name" : "",
-		"product_link" : "",
-		"image_url" : ""
+		"product_name" : "Apple Airpods 3. Nesil Kablosuz Kulaklık (Lightning Şarj Kutulu Versiyon) MPNY3TU/A",
+		"product_link" : "https://www.trendyol.com/apple/airpods-3-nesil-kablosuz-kulaklik-lightning-sarj-kutulu-versiyon-mpny3tu-a-p-358799918?boutiqueId=616521&merchantId=968",
+		"image_url" : "https://cdn.dsmcdn.com/ty545/product/media/images/20220929/11/181166449/582514930/1/1_org_zoom.jpg"
 	},
 	{
 		"id" : 4,
 		"category_type" : "electronics",
-		"product_price" : "",
+		"product_price" : "19650",
 		"currency_symbol" : "TL",
-		"product_name" : "",
-		"product_link" : "",
-		"image_url" : ""
+		"product_name" : "Sony Playstation 5 825 GB - Türkçe Menü + 2. PS5 DualSense",
+		"product_link" : "https://www.trendyol.com/sony/playstation-5-825-gb-turkce-menu-2-ps5-dualsense-p-87186728?boutiqueId=61&merchantId=640503",
+		"image_url" : "https://cdn.dsmcdn.com/ty52/product/media/images/20210326/23/75554837/145869006/1/1_org_zoom.jpg"
 	},
 	{
 		"id" : 5,
 		"category_type" : "electronics",
-		"product_price" : "",
+		"product_price" : "7900",
 		"currency_symbol" : "TL",
-		"product_name" : "",
-		"product_link" : "",
-		"image_url" : ""
+		"product_name" : "ONVO OV55350 55 139 Ekran Uydu Alıcılı 4K Ultra HD Smart LED TV",
+		"product_link" : "https://www.trendyol.com/onvo/ov55350-55-139-ekran-uydu-alicili-4k-ultra-hd-smart-led-tv-p-51157972?boutiqueId=61&merchantId=106248",
+		"image_url" : "https://cdn.dsmcdn.com/ty555/product/media/images/20221009/21/190102494/90684319/1/1_org_zoom.jpg"
 	},
 	{
 		"id" : 6,
 		"category_type" : "electronics",
-		"product_price" : "",
+		"product_price" : "3300",
 		"currency_symbol" : "TL",
-		"product_name" : "",
-		"product_link" : "",
-		"image_url" : ""
+		"product_name" : "ASUS Tuf Gamıng Vg24vqe 23,6 Kavıslı 165hz Freesync 1ms Fullhd Dp+hdmı Monitör TUF GAMING VG24VQE",
+		"product_link" : "https://www.trendyol.com/asus/tuf-gaming-vg24vqe-23-6-kavisli-165hz-freesync-1ms-fullhd-dp-hdmi-monitor-p-97570040?boutiqueId=613360&merchantId=316311",
+		"image_url" : "https://cdn.dsmcdn.com/ty103/product/media/images/20210410/15/79084049/162456772/1/1_org_zoom.jpg"
 	},
 	{
 		"id" : 7,
 		"category_type" : "electronics",
-		"product_price" : "",
+		"product_price" : "16400",
 		"currency_symbol" : "TL",
-		"product_name" : "",
-		"product_link" : "",
-		"image_url" : ""
+		"product_name" : "ASUS Tuf Gaming Fx506lhb-hn323 Intel Core I5 10300h 8gb 512gb Ssd Gtx1650 ",
+		"product_link" : "https://www.trendyol.com/asus/tuf-gaming-fx506lhb-hn323-intel-core-i5-10300h-8gb-512gb-ssd-gtx1650-freedos-15-6-p-444696755?boutiqueId=61&merchantId=601405&advertItems=eyJhZHZlcnRJZCI6Ijk4ZGNkNGVmLTNhYjItNDM2YS1hYmYyLWE3YTBhMTg4MjI3MiIsInNvcnRpbmdTY29yZSI6MC40NjQ5NTg3ODI1NDEsImFkU2NvcmUiOjEuNDA4OTY2MDA3NywiY3BjIjowLjMzLCJtaW5DcGMiOjAuMDEsImVDcGMiOjAuMDEsImFkdmVydFNsb3QiOjEsIm9yZGVyIjowLCJzZWFyY2hUZXJtIjoiYXN1cyBsYXB0b2IiLCJhdHRyaWJ1dGVzIjoiU3VnZ2VzdGlvbl9BLFJlbGV2YW5jeV8zLEZpbHRlclJlbGV2YW5jeV8xLExpc3RpbmdTY29yaW5nQWxnb3JpdGhtSWRfMSxTbWFydGxpc3RpbmdfMixGbGFzaFNhbGVzXzEsU3RvcmVBZHNfMiJ9",
+		"image_url" : "https://cdn.dsmcdn.com/ty619/product/media/images/20221202/18/225971174/637580861/2/2_org_zoom.jpg"
 	},
 	{
 		"id" : 8,
 		"category_type" : "electronics",
-		"product_price" : "",
+		"product_price" : "9300",
 		"currency_symbol" : "TL",
-		"product_name" : "",
-		"product_link" : "",
-		"image_url" : ""
+		"product_name" : "LENOVO V14 I3-1115g4 12 Gb 256 Gb Ssd 14 Fhd Free Dos Taşınabilir Bilgisayar",
+		"product_link" : "https://www.trendyol.com/lenovo/v14-i3-1115g4-12-gb-256-gb-ssd-14-fhd-free-dos-tasinabilir-bilgisayar-82ka001ttx007-p-384254756",
+		"image_url" : "https://cdn.dsmcdn.com/ty595/product/media/images/20221111/18/212372750/619921502/1/1_org_zoom.jpg"
 	},
 	{
 		"id" : 9,
 		"category_type" : "electronics",
-		"product_price" : "",
+		"product_price" : "1020",
 		"currency_symbol" : "TL",
-		"product_name" : "",
-		"product_link" : "",
-		"image_url" : ""
+		"product_name" : "HP 2710 Wi-fi Tarama Yazıcı Fotokopi Yazıcı ",
+		"product_link" : "https://www.trendyol.com/hp/2710-wi-fi-tarama-yazici-fotokopi-yazici-p-50418619?boutiqueId=61&merchantId=120477",
+		"image_url" : "https://cdn.dsmcdn.com/ty14/product/media/images/20200929/12/12452351/89347327/1/1_org_zoom.jpg"
 	},
 	{
 		"id" : 10,
 		"category_type" : "electronics",
-		"product_price" : "",
+		"product_price" : "5900",
 		"currency_symbol" : "TL",
-		"product_name" : "",
-		"product_link" : "",
-		"image_url" : ""
+		"product_name" : "Samsung Galaxy M13 128 GB Mavi Cep Telefonu",
+		"product_link" : "https://www.trendyol.com/samsung/galaxy-m13-128-gb-mavi-cep-telefonu-samsung-turkiye-garantili-p-322577983?boutiqueId=617729&merchantId=968",
+		"image_url" : "https://cdn.dsmcdn.com/ty469/product/media/images/20220706/12/136022031/515399556/1/1_org_zoom.jpg"
 	},
 	{
 		"id" : 11,
 		"category_type" : "electronics",
 		"product_price" : "",
 		"currency_symbol" : "TL",
-		"product_name" : "",
-		"product_link" : "",
-		"image_url" : ""
+		"product_name" : "Samsung Galaxy S22 Ultra 512 GB 5G Bordo Cep Telefonu",
+		"product_link" : "https://www.trendyol.com/samsung/galaxy-s22-ultra-512-gb-5g-bordo-cep-telefonu-samsung-turkiye-garantili-p-255894803?boutiqueId=617729&merchantId=968",
+		"image_url" : "https://cdn.dsmcdn.com/ty348/product/media/images/20220307/12/64017977/405852367/1/1_org_zoom.jpg"
 	},
 	{
 		"id" : 12,
 		"category_type" : "electronics",
-		"product_price" : "",
+		"product_price" : "1800",
 		"currency_symbol" : "TL",
-		"product_name" : "",
-		"product_link" : "",
-		"image_url" : ""
+		"product_name" : "Vorcom Sxpro 64 Gb 10.1 Gri Tablet Bilgisayar 4 Gb Ram Üretici Garantili Kırılmaz Cam Hediyeli SX Pro1",
+		"product_link" : "https://www.trendyol.com/vorcom/sxpro-64-gb-10-1-gri-tablet-bilgisayar-4-gb-ram-uretici-garantili-kirilmaz-cam-hediyeli-p-46205297?boutiqueId=61&merchantId=519473",
+		"image_url" : "https://cdn.dsmcdn.com/ty672/product/media/images/20230103/12/251154734/81346776/3/3_org_zoom.jpg"
 	},
 	{
 		"id" : 13,
 		"category_type" : "electronics",
 		"product_price" : "",
 		"currency_symbol" : "TL",
-		"product_name" : "",
-		"product_link" : "",
-		"image_url" : ""
+		"product_name" : "ASUS TUF Gaming VG27VQ 27 165 Hz 1ms (HDMI+Display+DVI-D) FreeSync Full HD Curved Monitör",
+		"product_link" : "https://www.trendyol.com/asus/tuf-gaming-vg27vq-27-165-hz-1ms-hdmi-display-dvi-d-freesync-full-hd-curved-monitor-p-33047958?boutiqueId=61&merchantId=738331",
+		"image_url" : "https://cdn.dsmcdn.com/ty93/product/media/images/20210404/19/18e9bfa5/59505685/1/1_org_zoom.jpg"
 	},
 	{
 		"id" : 14,
 		"category_type" : "electronics",
-		"product_price" : "",
+		"product_price" : "1900",
 		"currency_symbol" : "TL",
-		"product_name" : "",
-		"product_link" : "",
-		"image_url" : ""
+		"product_name" : "Albitmesin My Broom Akıllı Robot Süpürge 3'ü 1 Arada Otomatik Elektrikli Süpürge Siyah",
+		"product_link" : "https://www.trendyol.com/albitmesin/my-broom-akilli-robot-supurge-3-u-1-arada-otomatik-elektrikli-supurge-siyah-p-353671738?boutiqueId=61&merchantId=406277&advertItems=eyJhZHZlcnRJZCI6ImJiYzM3YzI3LTVkYmItNDIwMC1hN2M4LTc0MDQ5YjhjZjE5MyIsInNvcnRpbmdTY29yZSI6MTguOTU0NDEzMDg1MTc3LCJhZFNjb3JlIjoxMy40NDI4NDYxNTk3LCJjcGMiOjEuNDEsIm1pbkNwYyI6MC4wMSwiZUNwYyI6MC45MDAwMDE0OTkwNzAyNjg0LCJhZHZlcnRTbG90Ijo0LCJvcmRlciI6OSwiYXR0cmlidXRlcyI6IlN1Z2dlc3Rpb25fQSxSZWxldmFuY3lfMyxGaWx0ZXJSZWxldmFuY3lfMSxMaXN0aW5nU2NvcmluZ0FsZ29yaXRobUlkXzEsU21hcnRsaXN0aW5nXzIsRmxhc2hTYWxlc18xLFN0b3JlQWRzXzIifQ==",
+		"image_url" : "https://cdn.dsmcdn.com/ty619/product/media/images/20221201/15/225440851/569007824/1/1_org_zoom.jpg"
 	},
 	{
 		"id" : 15,
 		"category_type" : "electronics",
-		"product_price" : "",
+		"product_price" : "9400",
 		"currency_symbol" : "TL",
-		"product_name" : "",
-		"product_link" : "",
-		"image_url" : ""
+		"product_name" : "Apple Watch Series 7 45mm GPS Gece Yarısı Alüminyum Kasa ve Spor Kordon-Regular",
+		"product_link" : "https://www.trendyol.com/apple/watch-series-7-45mm-gps-gece-yarisi-aluminyum-kasa-ve-spor-kordon-regular-apple-turkiye-garantili-p-164420801?boutiqueId=61&merchantId=243893&advertItems=eyJhZHZlcnRJZCI6ImU5MzFmMDY1LTRkYzctNDY2ZS04ZjlmLTYxNTIxNGQyMDcxZiIsInNvcnRpbmdTY29yZSI6NS45MDk3ODAzNTA5ODYsImFkU2NvcmUiOjguNTY0ODk5MDU5NCwiY3BjIjowLjY5LCJtaW5DcGMiOjAuMDEsImVDcGMiOjAuNjc5OTQ2NDQ5Mjg3Mzk3NCwiYWR2ZXJ0U2xvdCI6MSwib3JkZXIiOjEsInNlYXJjaFRlcm0iOiJhcHBsZSB3YXRjaCAiLCJhdHRyaWJ1dGVzIjoiU3VnZ2VzdGlvbl9BLFJlbGV2YW5jeV8zLEZpbHRlclJlbGV2YW5jeV8xLExpc3RpbmdTY29yaW5nQWxnb3JpdGhtSWRfMSxTbWFydGxpc3RpbmdfMixGbGFzaFNhbGVzXzEsU3RvcmVBZHNfMiJ9",
+		"image_url" : "https://cdn.dsmcdn.com/ty457/product/media/images/20220621/12/128397629/268337313/2/2_org_zoom.jpg"
 	},
-	{
-		"id" : 16,
-		"category_type" : "electronics",
-		"product_price" : "",
-		"currency_symbol" : "TL",
-		"product_name" : "",
-		"product_link" : "",
-		"image_url" : ""
-	},
-	{
-		"id" : 17,
-		"category_type" : "electronics",
-		"product_price" : "",
-		"currency_symbol" : "TL",
-		"product_name" : "",
-		"product_link" : "",
-		"image_url" : ""
-	},
-	{
-		"id" : 18,
-		"category_type" : "electronics",
-		"product_price" : "",
-		"currency_symbol" : "TL",
-		"product_name" : "",
-		"product_link" : "",
-		"image_url" : ""
-	},
-	{
-		"id" : 19,
-		"category_type" : "electronics",
-		"product_price" : "",
-		"currency_symbol" : "TL",
-		"product_name" : "",
-		"product_link" : "",
-		"image_url" : ""
-	},
-	{
-		"id" : 20,
-		"category_type" : "electronics",
-		"product_price" : "",
-		"currency_symbol" : "TL",
-		"product_name" : "",
-		"product_link" : "",
-		"image_url" : ""
-	},
+	
 ]
 }
